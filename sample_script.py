@@ -17,7 +17,7 @@ Requirement:
 import pandas as pd
 from googleads import adwords
 
-CAMPAIGN_ID = input('Enter Campaign ID; ')
+CAMPAIGN_ID = input('Enter Campaign ID: ')
 LOCATION = input('Enter Location: ')
 
 def get_adgroups_report(client):
