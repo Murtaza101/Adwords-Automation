@@ -1,4 +1,4 @@
-'''Pause a campaign based on its number of impressions and if it has a specific keyword in one of its adgroups'''
+# Pause a campaign based on its number of impressions and if it has a specific keyword in one of its adgroups
 
 
 import sys
